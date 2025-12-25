@@ -1,0 +1,10 @@
+first_name = 'Randy'
+last_name = 'Beinpuo'
+full_name = 'Randy Beinpuo'
+country_name = 'Ghana'
+city_name = 'Sampa'
+age = 17
+current_year = 2025
+is_married = True
+is_true = True
+is_light_on = True
