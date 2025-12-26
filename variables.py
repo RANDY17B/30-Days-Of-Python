@@ -1,0 +1,11 @@
+first_name = 'Randy'
+last_name = 'Beinpuo'
+full_name = 'Randy Beinpuo'
+country = 'Ghana'
+city = 'Sunyani'
+age = 17
+current_year = 2025
+is_married = True
+is_true = True
+is_light_on = True
+first_name, last_name, country, age, is_married = 'Randy', 'Beinpuo', 'Ghana', 17, True
